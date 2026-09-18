@@ -9,3 +9,6 @@ let idade = anoAtual - anoNascimento;
 console.log (anoAtual);
 console.log (anoNascimento)
 console.log (idade)
+
+// Template String
+console.log (`Sua idade é: ${idade} anos`)
